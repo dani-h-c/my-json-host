@@ -1,6 +1,177 @@
 [
   {
     "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/61lFK8Vs+XL._SL500_.jpg",
+    "title": "The Reader",
+    "author": "Bernhard Schlink",
+    "narrator": "Sam Peter Jackson",
+    "length": 256,
+    "Link": "https://audible.com.au/pd/1474619959?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51mj0+MCo1L._SL500_.jpg",
+    "title": "The Waitress",
+    "author": "K. L. Slater",
+    "narrator": "Claudia Jessie",
+    "length": 476,
+    "Link": "https://audible.com.au/pd/B0F3JQDT58?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/514o83SbJGL._SL500_.jpg",
+    "title": "The Final Wife",
+    "author": "Jenny Blackhurst",
+    "narrator": "Rebecca Gethings, Victoria Blunt, Emily Joyce, Eleanor Bennett, Nigel Pilkington",
+    "length": 478,
+    "Link": "https://audible.com.au/pd/B0F63TQRTM?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51OXDFrvTXL._SL500_.jpg",
+    "title": "Sweet Little Lies",
+    "author": "Caz Frear",
+    "narrator": "Jane Collingwood",
+    "length": 717,
+    "Link": "https://audible.com.au/pd/B07734DVCJ?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51mTznyzs9L._SL500_.jpg",
+    "title": "Aren't We Lucky",
+    "author": "Sarah Forbes Stewart",
+    "narrator": "Nicola Coughlan",
+    "length": 453,
+    "Link": "https://audible.com.au/pd/B0DV9R8YYV?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51YtHZlrX2L._SL500_.jpg",
+    "title": "Secret Sister",
+    "author": "Sarah A. Denzil",
+    "narrator": "Jessica Gunning, Sacha Dhawan, Joanne Froggatt, Nathaniel Curtis, Hopi Grace",
+    "length": 528,
+    "Link": "https://audible.com.au/pd/B0F3NDQHYG?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51QLX81+fKL._SL500_.jpg",
+    "title": "Not a Very Good Murderer",
+    "author": "Ronan Farrow",
+    "narrator": "Ronan Farrow",
+    "length": 257,
+    "Link": "https://audible.com.au/pd/B0DSCJ5BLS?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51N5XGuFySL._SL500_.jpg",
+    "title": "The Silent Quarry",
+    "author": "Cheryl Rees-Price",
+    "narrator": "Andy Cresswell",
+    "length": 456,
+    "Link": "https://audible.com.au/pd/1004037902?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51Yzm9m-3LL._SL500_.jpg",
+    "title": "One Little Mistake: A Novella",
+    "author": "Lucinda Berry",
+    "narrator": "Brittany Pressley",
+    "length": 143,
+    "Link": "https://audible.com.au/pd/B09CFSP44K?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/61KHhbwfcIL._SL500_.jpg",
+    "title": "Twenty Years Later",
+    "author": "Charlie Donlea",
+    "narrator": "Vivienne Leheny",
+    "length": 658,
+    "Link": "https://audible.com.au/pd/1705026044?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51W7FjIFwGL._SL500_.jpg",
+    "title": "The Long Game",
+    "author": "Simon Rowell",
+    "narrator": "Elle Mickel",
+    "length": 416,
+    "Link": "https://audible.com.au/pd/B09DGQNQHH?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51w-JDzQe3L._SL500_.jpg",
+    "title": "Birds in Flight",
+    "author": "Anni Taylor",
+    "narrator": "Harriet Gordon-Anderson",
+    "length": 667,
+    "Link": "https://audible.com.au/pd/B0BRQFH9QV?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51lBVrBZDpL._SL500_.jpg",
+    "title": "The Day She Disappeared",
+    "author": "Sam Genever",
+    "narrator": "Peter Noble",
+    "length": 632,
+    "Link": "https://audible.com.au/pd/B0DV9PXQMG?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51HUA--8YHL._SL500_.jpg",
+    "title": "Him",
+    "author": "JD Kirk",
+    "narrator": "David Tennant, Louise Brealey",
+    "length": 568,
+    "Link": "https://audible.com.au/pd/B0DWFXFPP2?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51VFKRJsloL._SL500_.jpg",
+    "title": "Storm Child",
+    "author": "Michael Robotham",
+    "narrator": "Joe Jameson",
+    "length": 671,
+    "Link": "https://audible.com.au/pd/B0CNV1YM3C?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/41H87Z9XdBS._SL500_.jpg",
+    "title": "Touch",
+    "author": "Jus Accardo",
+    "narrator": "Shaina Summerville",
+    "length": 580,
+    "Link": "https://audible.com.au/pd/1666155381?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51oN63IpplL._SL500_.jpg",
+    "title": "The Nice Guy",
+    "author": "Sarah A. Denzil",
+    "narrator": "Rosie Cavaliero",
+    "length": 551,
+    "Link": "https://audible.com.au/pd/B0C9JJML94?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/51m21uxWCmL._SL500_.jpg",
+    "title": "The Grand Hotel: A Novel",
+    "author": "Scott Kenemore",
+    "narrator": "Christian Rummel",
+    "length": 640,
+    "Link": "https://audible.com.au/pd/B00OL6H3UE?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
+    "coverImage": "https://m.media-amazon.com/images/I/613PJZHJY3L._SL500_.jpg",
+    "title": "Schrodinger's Cottage",
+    "author": "David Luddington",
+    "narrator": "Nigel Planer",
+    "length": 435,
+    "Link": "https://audible.com.au/pd/1528853458?ipRedirectOverride=true&overrideBaseCountry=true"
+  },
+  {
+    "Year": 2025,
     "coverImage": "https://m.media-amazon.com/images/I/51CQbD3BVKL._SL500_.jpg",
     "title": "The Colour of Mystery",
     "author": "Joy Ellis",
